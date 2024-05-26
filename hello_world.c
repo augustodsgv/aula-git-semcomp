@@ -3,7 +3,7 @@
 
 int main(int argc, char * argv[]){
 	if (argc < 2){
-		printf("O nome a ser printado deve ser passado!!!\n");
+		printf("O nome a ser printado deve ser informado!!!\n");
 		exit(1);
 	}
 	printf("Hello, %s!\n", argv[1]);
