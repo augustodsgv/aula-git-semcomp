@@ -7,7 +7,7 @@ int main(int argc, char * argv[]){
 		exit(1);
 	}
 	printf("Hello, %s!\n", argv[1]);
-
+	printf("tenha um ótimo dia\n");
 
 	return 0;
 }
