@@ -6,7 +6,7 @@ int main(int argc, char * argv[]){
 		printf("O nome a ser printado deve ser informado!!!\n");
 		exit(1);
 	}
-	printf("Hello, %s!\n", argv[1]);
+	printf("bye bye, %s!$\n", argv[1]);
 	printf("tenha um ótimo dia\n");
 
 	return 0;
